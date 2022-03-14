@@ -1,5 +1,4 @@
--- COMP 53 Assignment 1, Topic:Greek Gods
--- Section:101
+-- Topic:Greek Gods
 -- Name:Manlin Mao
 DROP DATABASE IF EXISTS MaoGreekGods;
 CREATE	DATABASE MaoGreekGods;
